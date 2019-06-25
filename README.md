@@ -1,2 +1,1 @@
-# js2bliss
-sick of coding no longer being a challenge?  Are you festive? Come on in
+**警告：压缩后的js请人工确认后再投入生产使用，不保证100%可运行，目前测试的js以及souche.com官网的js都已经试验过，基本可以保证99%的js压缩后没有问题
