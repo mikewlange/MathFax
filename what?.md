@@ -6,7 +6,7 @@ js2bliss is number 25 on the Mike Lange's new Code Series titled "What?"
 # example
 que?
 
-# Installation dependent system modules graphicsmagick
+## graphicsmagick
 
 ```bash
 # Ubuntu
